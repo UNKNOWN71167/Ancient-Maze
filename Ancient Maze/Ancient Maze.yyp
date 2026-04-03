@@ -3,14 +3,19 @@
   "resourceVersion": "1.6",
   "name": "Ancient Maze",
   "resources": [
-    {"id":{"name":"spr_plr_up","path":"sprites/spr_plr_up/spr_plr_up.yy",},"order":6,},
-    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":3,},
-    {"id":{"name":"spr_plr_down","path":"sprites/spr_plr_down/spr_plr_down.yy",},"order":7,},
+    {"id":{"name":"Object6","path":"objects/Object6/Object6.yy",},"order":7,},
+    {"id":{"name":"spr_plr_up","path":"sprites/spr_plr_up/spr_plr_up.yy",},"order":3,},
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":0,},
+    {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},"order":5,},
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":6,},
+    {"id":{"name":"spr_plr_down","path":"sprites/spr_plr_down/spr_plr_down.yy",},"order":4,},
+    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":4,},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":0,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":1,},
-    {"id":{"name":"spr_plr_left","path":"sprites/spr_plr_left/spr_plr_left.yy",},"order":5,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":12,},
-    {"id":{"name":"spr_plr_right","path":"sprites/spr_plr_right/spr_plr_right.yy",},"order":4,},
+    {"id":{"name":"spr_plr_left","path":"sprites/spr_plr_left/spr_plr_left.yy",},"order":2,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"spr_plr_right","path":"sprites/spr_plr_right/spr_plr_right.yy",},"order":1,},
   ],
   "Options": [
     {"name":"Android","path":"options/android/options_android.yy",},
@@ -31,6 +36,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy","order":9,},
