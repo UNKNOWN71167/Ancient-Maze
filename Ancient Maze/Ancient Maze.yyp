@@ -8,7 +8,9 @@
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":0,},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},"order":5,},
     {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},"order":5,},
-    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":3,},
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":9,},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},"order":3,},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":2,},
     {"id":{"name":"spr_plr_down","path":"sprites/spr_plr_down/spr_plr_down.yy",},"order":4,},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":2,},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":8,},
@@ -16,6 +18,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":1,},
     {"id":{"name":"spr_plr_left","path":"sprites/spr_plr_left/spr_plr_left.yy",},"order":2,},
+    {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},"order":10,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},"order":7,},
     {"id":{"name":"spr_enmy_right","path":"sprites/spr_enmy_right/spr_enmy_right.yy",},"order":6,},
@@ -41,6 +44,8 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy","order":9,},
